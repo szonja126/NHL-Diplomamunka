@@ -1,44 +1,88 @@
-,id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,teamID,pPos,gameId
-ID8467950,8467950,Craig Anderson,/api/v1/people/8467950,Craig,Anderson,41,1981-05-21,41,Park Ridge,IL,USA,USA,"6' 2""",186,True,False,False,False,L,Y,9,Goalie,2019020001
-ID8480073,8480073,Erik Brannstrom,/api/v1/people/8480073,Erik,Brannstrom,26,1999-09-02,23,Eksjo,,SWE,SWE,"5' 9""",181,True,False,False,True,L,Y,9,Defenseman,2019020001
-ID8477939,8477939,William Nylander,/api/v1/people/8477939,William,Nylander,88,1996-05-01,26,Calgary,AB,CAN,SWE,"6' 0""",196,True,False,False,False,R,Y,10,Center,2019020001
-ID8475718,8475718,Justin Holl,/api/v1/people/8475718,Justin,Holl,3,1992-01-30,30,Tonka Bay,MN,USA,USA,"6' 4""",210,True,False,False,False,R,Y,10,Defenseman,2019020001
-ID8476406,8476406,Nicholas Shore,/api/v1/people/8476406,Nicholas,Shore,26,1992-09-26,29,Denver,CO,USA,USA,"6' 1""",198,True,False,False,False,R,Y,10,Center,2019020001
-ID8475716,8475716,Martin Marincin,/api/v1/people/8475716,Martin,Marincin,52,1992-02-18,30,Kosice,,SVK,SVK,"6' 5""",217,True,False,False,False,L,Y,10,Defenseman,2019020001
-ID8477953,8477953,Kasperi Kapanen,/api/v1/people/8477953,Kasperi,Kapanen,24,1996-07-23,26,Kuopio,,FIN,FIN,"6' 1""",194,True,False,False,False,R,Y,10,Right Wing,2019020001
-ID8471676,8471676,Bobby Ryan,/api/v1/people/8471676,Bobby,Ryan,9,1987-03-17,35,Cherry Hill,NJ,USA,USA,"6' 2""",208,True,False,False,False,R,Y,9,Right Wing,2019020001
-ID8474589,8474589,Tyler Ennis,/api/v1/people/8474589,Tyler,Ennis,63,1989-10-06,32,Edmonton,AB,CAN,CAN,"5' 9""",161,True,False,False,False,L,Y,9,Center,2019020001
-ID8479318,8479318,Auston Matthews,/api/v1/people/8479318,Auston,Matthews,34,1997-09-17,25,San Ramon,CA,USA,USA,"6' 3""",220,True,True,False,False,L,Y,10,Center,2019020001
-ID8475166,8475166,John Tavares,/api/v1/people/8475166,John,Tavares,91,1990-09-20,32,Mississauga,ON,CAN,CAN,"6' 1""",215,True,False,True,False,L,Y,10,Center,2019020001
-ID8480801,8480801,Brady Tkachuk,/api/v1/people/8480801,Brady,Tkachuk,7,1999-09-16,23,Scottsdale,AZ,USA,USA,"6' 4""",212,True,False,False,False,L,Y,9,Left Wing,2019020001
-ID8477149,8477149,Scott Sabourin,/api/v1/people/8477149,Scott,Sabourin,49,1992-07-30,30,Orleans,ON,CAN,CAN,"6' 3""",208,True,False,False,False,R,I,9,Right Wing,2019020001
-ID8475883,8475883,Frederik Andersen,/api/v1/people/8475883,Frederik,Andersen,31,1989-10-02,32,Herning,,DNK,DNK,"6' 4""",238,True,False,False,False,L,Y,10,Goalie,2019020001
-ID8480208,8480208,Drake Batherson,/api/v1/people/8480208,Drake,Batherson,19,1998-04-27,24,Fort Wayne,IN,USA,USA,"6' 3""",206,True,False,False,True,R,N,9,Center,2019020001
-ID8474597,8474597,Cody Goloubef,/api/v1/people/8474597,Cody,Goloubef,29,1989-11-30,32,Mississauga,ON,CAN,CAN,"6' 1""",190,True,False,False,False,R,Y,9,Defenseman,2019020001
-ID8477341,8477341,Andreas Johnsson,/api/v1/people/8477341,Andreas,Johnsson,18,1994-11-21,27,Gävle,,SWE,SWE,"5' 10""",194,True,False,False,False,L,Y,10,Left Wing,2019020001
-ID8477021,8477021,Alexander Kerfoot,/api/v1/people/8477021,Alexander,Kerfoot,15,1994-08-11,28,Vancouver,BC,CAN,CAN,"5' 10""",185,True,False,False,False,L,Y,10,Center,2019020001
-ID8476331,8476331,Dylan DeMelo,/api/v1/people/8476331,Dylan,DeMelo,2,1993-05-01,29,London,ON,CAN,CAN,"6' 0""",191,True,False,False,False,R,Y,9,Defenseman,2019020001
-ID8474571,8474571,Mikkel Boedker,/api/v1/people/8474571,Mikkel,Boedker,89,1989-12-16,32,Brondby,,DNK,DNK,"5' 11""",207,True,False,False,False,L,Y,9,Left Wing,2019020001
-ID8480043,8480043,Timothy Liljegren,/api/v1/people/8480043,Timothy,Liljegren,37,1999-04-30,23,Kristianstad,,SWE,SWE,"6' 0""",198,True,False,False,True,R,N,10,Defenseman,2019020001
-ID8476919,8476919,Chris Tierney,/api/v1/people/8476919,Chris,Tierney,71,1994-07-01,28,Keswick,ON,CAN,CAN,"6' 1""",195,True,False,False,False,L,Y,9,Center,2019020001
-ID8476879,8476879,Cody Ceci,/api/v1/people/8476879,Cody,Ceci,83,1993-12-21,28,Ottawa,ON,CAN,CAN,"6' 2""",210,True,False,False,False,R,Y,10,Defenseman,2019020001
-ID8477407,8477407,Anthony Duclair,/api/v1/people/8477407,Anthony,Duclair,10,1995-08-26,27,Pointe-Claire,QC,CAN,CAN,"5' 11""",198,True,False,False,False,L,Y,9,Left Wing,2019020001
-ID8476419,8476419,Jean-Gabriel Pageau,/api/v1/people/8476419,Jean-Gabriel,Pageau,44,1992-11-11,29,Ottawa,ON,CAN,CAN,"5' 10""",180,True,True,False,False,R,Y,9,Center,2019020001
-ID8468493,8468493,Ron Hainsey,/api/v1/people/8468493,Ron,Hainsey,81,1981-03-24,41,Bolton,CT,USA,USA,"6' 3""",201,True,True,False,False,L,Y,9,Defenseman,2019020001
-ID8474697,8474697,Mark Borowiecki,/api/v1/people/8474697,Mark,Borowiecki,74,1989-07-12,33,Ottawa,ON,CAN,CAN,"6' 2""",204,True,True,False,False,L,Y,9,Defenseman,2019020001
-ID8476853,8476853,Morgan Rielly,/api/v1/people/8476853,Morgan,Rielly,44,1994-03-09,28,Vancouver,BC,CAN,CAN,"6' 1""",219,True,True,False,False,L,Y,10,Defenseman,2019020001
-ID8478857,8478857,Dmytro Timashov,/api/v1/people/8478857,Dmytro,Timashov,41,1996-10-01,25,Kirovograd,,UKR,UKR,"5' 10""",192,True,False,False,True,L,Y,10,Left Wing,2019020001
-ID8479458,8479458,Nikita Zaitsev,/api/v1/people/8479458,Nikita,Zaitsev,22,1991-10-29,30,Moscow,,RUS,RUS,"6' 2""",188,True,False,False,False,R,Y,9,Defenseman,2019020001
-ID8477015,8477015,Connor Brown,/api/v1/people/8477015,Connor,Brown,28,1994-01-14,28,Toronto,ON,CAN,CAN,"6' 0""",186,True,False,False,False,R,Y,9,Right Wing,2019020001
-ID8481624,8481624,Ilya Mikheyev,/api/v1/people/8481624,Ilya,Mikheyev,65,1994-10-10,27,Omsk,,RUS,RUS,"6' 3""",195,True,False,False,True,L,Y,10,Right Wing,2019020001
-ID8478400,8478400,Colin White,/api/v1/people/8478400,Colin,White,36,1997-01-30,25,Boston,MA,USA,USA,"5' 11""",191,True,False,False,False,R,I,9,Center,2019020001
-ID8478488,8478488,Filip Chlapik,/api/v1/people/8478488,Filip,Chlapik,78,1997-06-03,25,Prague,,CZE,CZE,"6' 2""",194,True,False,False,True,L,Y,9,Center,2019020001
-ID8478469,8478469,Thomas Chabot,/api/v1/people/8478469,Thomas,Chabot,72,1997-01-30,25,Sainte-Marie,QC,CAN,CAN,"6' 2""",190,True,False,False,False,L,Y,9,Defenseman,2019020001
-ID8474162,8474162,Jake Muzzin,/api/v1/people/8474162,Jake,Muzzin,8,1989-02-21,33,Woodstock,ON,CAN,CAN,"6' 3""",217,True,False,False,False,L,Y,10,Defenseman,2019020001
-ID8477512,8477512,Frederik Gauthier,/api/v1/people/8477512,Frederik,Gauthier,33,1995-04-26,27,Laval,QC,CAN,CAN,"6' 5""",239,True,False,False,False,L,Y,10,Center,2019020001
-ID8473573,8473573,Artem Anisimov,/api/v1/people/8473573,Artem,Anisimov,51,1988-05-24,34,Yaroslavl,,RUS,RUS,"6' 4""",199,True,False,False,False,L,Y,9,Center,2019020001
-ID8479675,8479675,Trevor Moore,/api/v1/people/8479675,Trevor,Moore,42,1995-03-31,27,Thousand Oaks,CA,USA,USA,"5' 10""",185,True,False,False,True,L,Y,10,Center,2019020001
-ID8475197,8475197,Tyson Barrie,/api/v1/people/8475197,Tyson,Barrie,94,1991-07-26,31,Victoria,BC,CAN,CAN,"5' 11""",197,True,False,False,False,R,Y,10,Defenseman,2019020001
-ID8478483,8478483,Mitchell Marner,/api/v1/people/8478483,Mitchell,Marner,16,1997-05-05,25,Markham,ON,CAN,CAN,"6' 0""",175,True,True,False,False,R,Y,10,Center,2019020001
-ID8469455,8469455,Jason Spezza,/api/v1/people/8469455,Jason,Spezza,19,1983-06-13,39,Toronto,ON,CAN,CAN,"6' 3""",216,True,False,False,False,R,Y,10,Center,2019020001
-ID8480873,8480873,Rasmus Sandin,/api/v1/people/8480873,Rasmus,Sandin,38,2000-03-07,22,Uppsala,,SWE,SWE,"5' 11""",183,True,False,False,True,L,N,10,Defenseman,2019020001
+id,fullName,link,firstName,lastName,primaryNumber,birthDate,currentAge,birthCity,birthStateProvince,birthCountry,nationality,height,weight,active,alternateCaptain,captain,rookie,shootsCatches,rosterStatus,gameId,teamID,pPos
+8467950,Craig Anderson,/api/v1/people/8467950,Craig,Anderson,41,1981-05-21,41,Park Ridge,IL,USA,USA,"6' 2""",186,True,False,False,False,L,Y,2019020001,9,Goalie
+8480073,Erik Brannstrom,/api/v1/people/8480073,Erik,Brannstrom,26,1999-09-02,23,Eksjo,,SWE,SWE,"5' 9""",181,True,False,False,True,L,Y,2019020001,9,Defenseman
+8477939,William Nylander,/api/v1/people/8477939,William,Nylander,88,1996-05-01,26,Calgary,AB,CAN,SWE,"6' 0""",196,True,False,False,False,R,Y,2019020001,10,Center
+8475718,Justin Holl,/api/v1/people/8475718,Justin,Holl,3,1992-01-30,30,Tonka Bay,MN,USA,USA,"6' 4""",210,True,False,False,False,R,Y,2019020001,10,Defenseman
+8476406,Nicholas Shore,/api/v1/people/8476406,Nicholas,Shore,26,1992-09-26,29,Denver,CO,USA,USA,"6' 1""",198,True,False,False,False,R,Y,2019020001,10,Center
+8475716,Martin Marincin,/api/v1/people/8475716,Martin,Marincin,52,1992-02-18,30,Kosice,,SVK,SVK,"6' 5""",217,True,False,False,False,L,Y,2019020001,10,Defenseman
+8477953,Kasperi Kapanen,/api/v1/people/8477953,Kasperi,Kapanen,24,1996-07-23,26,Kuopio,,FIN,FIN,"6' 1""",194,True,False,False,False,R,Y,2019020001,10,Right Wing
+8471676,Bobby Ryan,/api/v1/people/8471676,Bobby,Ryan,9,1987-03-17,35,Cherry Hill,NJ,USA,USA,"6' 2""",208,True,False,False,False,R,Y,2019020001,9,Right Wing
+8474589,Tyler Ennis,/api/v1/people/8474589,Tyler,Ennis,63,1989-10-06,32,Edmonton,AB,CAN,CAN,"5' 9""",161,True,False,False,False,L,Y,2019020001,9,Center
+8479318,Auston Matthews,/api/v1/people/8479318,Auston,Matthews,34,1997-09-17,25,San Ramon,CA,USA,USA,"6' 3""",220,True,True,False,False,L,Y,2019020001,10,Center
+8475166,John Tavares,/api/v1/people/8475166,John,Tavares,91,1990-09-20,32,Mississauga,ON,CAN,CAN,"6' 1""",215,True,False,True,False,L,Y,2019020001,10,Center
+8480801,Brady Tkachuk,/api/v1/people/8480801,Brady,Tkachuk,7,1999-09-16,23,Scottsdale,AZ,USA,USA,"6' 4""",212,True,False,False,False,L,Y,2019020001,9,Left Wing
+8477149,Scott Sabourin,/api/v1/people/8477149,Scott,Sabourin,49,1992-07-30,30,Orleans,ON,CAN,CAN,"6' 3""",208,True,False,False,False,R,I,2019020001,9,Right Wing
+8475883,Frederik Andersen,/api/v1/people/8475883,Frederik,Andersen,31,1989-10-02,32,Herning,,DNK,DNK,"6' 4""",238,True,False,False,False,L,Y,2019020001,10,Goalie
+8480208,Drake Batherson,/api/v1/people/8480208,Drake,Batherson,19,1998-04-27,24,Fort Wayne,IN,USA,USA,"6' 3""",206,True,False,False,True,R,N,2019020001,9,Center
+8474597,Cody Goloubef,/api/v1/people/8474597,Cody,Goloubef,29,1989-11-30,32,Mississauga,ON,CAN,CAN,"6' 1""",190,True,False,False,False,R,Y,2019020001,9,Defenseman
+8477341,Andreas Johnsson,/api/v1/people/8477341,Andreas,Johnsson,18,1994-11-21,27,Gävle,,SWE,SWE,"5' 10""",194,True,False,False,False,L,Y,2019020001,10,Left Wing
+8477021,Alexander Kerfoot,/api/v1/people/8477021,Alexander,Kerfoot,15,1994-08-11,28,Vancouver,BC,CAN,CAN,"5' 10""",185,True,False,False,False,L,Y,2019020001,10,Center
+8476331,Dylan DeMelo,/api/v1/people/8476331,Dylan,DeMelo,2,1993-05-01,29,London,ON,CAN,CAN,"6' 0""",191,True,False,False,False,R,Y,2019020001,9,Defenseman
+8474571,Mikkel Boedker,/api/v1/people/8474571,Mikkel,Boedker,89,1989-12-16,32,Brondby,,DNK,DNK,"5' 11""",207,True,False,False,False,L,Y,2019020001,9,Left Wing
+8480043,Timothy Liljegren,/api/v1/people/8480043,Timothy,Liljegren,37,1999-04-30,23,Kristianstad,,SWE,SWE,"6' 0""",198,True,False,False,True,R,N,2019020001,10,Defenseman
+8476919,Chris Tierney,/api/v1/people/8476919,Chris,Tierney,71,1994-07-01,28,Keswick,ON,CAN,CAN,"6' 1""",195,True,False,False,False,L,Y,2019020001,9,Center
+8476879,Cody Ceci,/api/v1/people/8476879,Cody,Ceci,83,1993-12-21,28,Ottawa,ON,CAN,CAN,"6' 2""",210,True,False,False,False,R,Y,2019020001,10,Defenseman
+8477407,Anthony Duclair,/api/v1/people/8477407,Anthony,Duclair,10,1995-08-26,27,Pointe-Claire,QC,CAN,CAN,"5' 11""",198,True,False,False,False,L,Y,2019020001,9,Left Wing
+8476419,Jean-Gabriel Pageau,/api/v1/people/8476419,Jean-Gabriel,Pageau,44,1992-11-11,29,Ottawa,ON,CAN,CAN,"5' 10""",180,True,True,False,False,R,Y,2019020001,9,Center
+8468493,Ron Hainsey,/api/v1/people/8468493,Ron,Hainsey,81,1981-03-24,41,Bolton,CT,USA,USA,"6' 3""",201,True,True,False,False,L,Y,2019020001,9,Defenseman
+8474697,Mark Borowiecki,/api/v1/people/8474697,Mark,Borowiecki,74,1989-07-12,33,Ottawa,ON,CAN,CAN,"6' 2""",204,True,True,False,False,L,Y,2019020001,9,Defenseman
+8476853,Morgan Rielly,/api/v1/people/8476853,Morgan,Rielly,44,1994-03-09,28,Vancouver,BC,CAN,CAN,"6' 1""",219,True,True,False,False,L,Y,2019020001,10,Defenseman
+8478857,Dmytro Timashov,/api/v1/people/8478857,Dmytro,Timashov,41,1996-10-01,25,Kirovograd,,UKR,UKR,"5' 10""",192,True,False,False,True,L,Y,2019020001,10,Left Wing
+8479458,Nikita Zaitsev,/api/v1/people/8479458,Nikita,Zaitsev,22,1991-10-29,30,Moscow,,RUS,RUS,"6' 2""",188,True,False,False,False,R,Y,2019020001,9,Defenseman
+8477015,Connor Brown,/api/v1/people/8477015,Connor,Brown,28,1994-01-14,28,Toronto,ON,CAN,CAN,"6' 0""",186,True,False,False,False,R,Y,2019020001,9,Right Wing
+8481624,Ilya Mikheyev,/api/v1/people/8481624,Ilya,Mikheyev,65,1994-10-10,27,Omsk,,RUS,RUS,"6' 3""",195,True,False,False,True,L,Y,2019020001,10,Right Wing
+8478400,Colin White,/api/v1/people/8478400,Colin,White,36,1997-01-30,25,Boston,MA,USA,USA,"5' 11""",191,True,False,False,False,R,I,2019020001,9,Center
+8478488,Filip Chlapik,/api/v1/people/8478488,Filip,Chlapik,78,1997-06-03,25,Prague,,CZE,CZE,"6' 2""",194,True,False,False,True,L,Y,2019020001,9,Center
+8478469,Thomas Chabot,/api/v1/people/8478469,Thomas,Chabot,72,1997-01-30,25,Sainte-Marie,QC,CAN,CAN,"6' 2""",190,True,False,False,False,L,Y,2019020001,9,Defenseman
+8474162,Jake Muzzin,/api/v1/people/8474162,Jake,Muzzin,8,1989-02-21,33,Woodstock,ON,CAN,CAN,"6' 3""",217,True,False,False,False,L,Y,2019020001,10,Defenseman
+8477512,Frederik Gauthier,/api/v1/people/8477512,Frederik,Gauthier,33,1995-04-26,27,Laval,QC,CAN,CAN,"6' 5""",239,True,False,False,False,L,Y,2019020001,10,Center
+8473573,Artem Anisimov,/api/v1/people/8473573,Artem,Anisimov,51,1988-05-24,34,Yaroslavl,,RUS,RUS,"6' 4""",199,True,False,False,False,L,Y,2019020001,9,Center
+8479675,Trevor Moore,/api/v1/people/8479675,Trevor,Moore,42,1995-03-31,27,Thousand Oaks,CA,USA,USA,"5' 10""",185,True,False,False,True,L,Y,2019020001,10,Center
+8475197,Tyson Barrie,/api/v1/people/8475197,Tyson,Barrie,94,1991-07-26,31,Victoria,BC,CAN,CAN,"5' 11""",197,True,False,False,False,R,Y,2019020001,10,Defenseman
+8478483,Mitchell Marner,/api/v1/people/8478483,Mitchell,Marner,16,1997-05-05,25,Markham,ON,CAN,CAN,"6' 0""",175,True,True,False,False,R,Y,2019020001,10,Center
+8469455,Jason Spezza,/api/v1/people/8469455,Jason,Spezza,19,1983-06-13,39,Toronto,ON,CAN,CAN,"6' 3""",216,True,False,False,False,R,Y,2019020001,10,Center
+8480873,Rasmus Sandin,/api/v1/people/8480873,Rasmus,Sandin,38,2000-03-07,22,Uppsala,,SWE,SWE,"5' 11""",183,True,False,False,True,L,N,2019020001,10,Defenseman
+8476905,Chandler Stephenson,/api/v1/people/8476905,Chandler,Stephenson,18,1994-04-22,28,Saskatoon,SK,CAN,CAN,"6' 0""",208,True,False,False,False,L,Y,2019020002,15,Center
+8476907,Mackenzie MacEachern,/api/v1/people/8476907,Mackenzie,MacEachern,28,1994-03-09,28,Bloomfield Hills,MI,USA,USA,"6' 2""",190,True,False,False,False,L,Y,2019020002,19,Left Wing
+8476329,Travis Boyd,/api/v1/people/8476329,Travis,Boyd,72,1993-09-14,29,Hopkins,MN,USA,USA,"6' 0""",190,True,False,False,False,R,Y,2019020002,15,Center
+8474125,Carl Gunnarsson,/api/v1/people/8474125,Carl,Gunnarsson,4,1986-11-09,35,Orebro,,SWE,SWE,"6' 2""",198,True,False,False,False,L,Y,2019020002,19,Defenseman
+8474565,Alex Pietrangelo,/api/v1/people/8474565,Alex,Pietrangelo,27,1990-01-18,32,King City,ON,CAN,CAN,"6' 3""",210,True,False,True,False,R,Y,2019020002,19,Defenseman
+8475753,Justin Faulk,/api/v1/people/8475753,Justin,Faulk,72,1992-03-20,30,South St. Paul,MN,USA,USA,"6' 0""",217,True,False,False,False,R,Y,2019020002,19,Defenseman
+8471214,Alex Ovechkin,/api/v1/people/8471214,Alex,Ovechkin,8,1985-09-17,37,Moscow,,RUS,RUS,"6' 3""",236,True,False,True,False,R,Y,2019020002,15,Left Wing
+8471698,T.J. Oshie,/api/v1/people/8471698,T.J.,Oshie,77,1986-12-23,35,Everett,WA,USA,USA,"6' 0""",195,True,False,False,False,R,Y,2019020002,15,Right Wing
+8478407,Vince Dunn,/api/v1/people/8478407,Vince,Dunn,29,1996-10-29,25,Mississauga,ON,CAN,CAN,"6' 0""",203,True,False,False,False,L,Y,2019020002,19,Defenseman
+8475200,Dmitry Orlov,/api/v1/people/8475200,Dmitry,Orlov,9,1991-07-23,31,Novokuznetsk,,RUS,RUS,"5' 11""",208,True,False,False,False,L,Y,2019020002,15,Defenseman
+8475343,Nic Dowd,/api/v1/people/8475343,Nic,Dowd,26,1990-05-27,32,Huntsville,AL,USA,USA,"6' 1""",195,True,False,False,False,R,Y,2019020002,15,Center
+8476894,Brendan Leipsic,/api/v1/people/8476894,Brendan,Leipsic,28,1994-05-19,28,Winnipeg,MB,CAN,CAN,"5' 11""",180,True,False,False,False,L,Y,2019020002,15,Left Wing
+8474651,Braden Holtby,/api/v1/people/8474651,Braden,Holtby,70,1989-09-16,33,Lloydminster,SK,CAN,CAN,"6' 2""",214,True,False,False,False,L,Y,2019020002,15,Goalie
+8476412,Jordan Binnington,/api/v1/people/8476412,Jordan,Binnington,50,1993-07-11,29,Richmond Hill,ON,CAN,CAN,"6' 1""",174,True,False,False,False,L,Y,2019020002,19,Goalie
+8473563,Nicklas Backstrom,/api/v1/people/8473563,Nicklas,Backstrom,19,1987-11-23,34,Gävle,,SWE,SWE,"6' 1""",206,True,True,False,False,L,Y,2019020002,15,Center
+8474590,John Carlson,/api/v1/people/8474590,John,Carlson,74,1990-01-10,32,Natick,MA,USA,USA,"6' 3""",217,True,True,False,False,R,Y,2019020002,15,Defenseman
+8478399,Jonas Siegenthaler,/api/v1/people/8478399,Jonas,Siegenthaler,34,1997-05-06,25,Zurich,,CHE,CHE,"6' 3""",210,True,False,False,False,L,Y,2019020002,15,Defenseman
+8477343,Tyler Lewington,/api/v1/people/8477343,Tyler,Lewington,78,1994-12-05,27,Edmonton,AB,CAN,CAN,"6' 2""",200,True,False,False,True,R,Y,2019020002,15,Defenseman
+8475462,Radko Gudas,/api/v1/people/8475462,Radko,Gudas,33,1990-06-05,32,Prague,,CZE,CZE,"6' 0""",205,True,False,False,False,R,Y,2019020002,15,Defenseman
+8474176,Carl Hagelin,/api/v1/people/8474176,Carl,Hagelin,62,1988-08-23,34,Sodertalje,,SWE,SWE,"6' 0""",185,True,False,False,False,L,Y,2019020002,15,Left Wing
+8470151,Jay Bouwmeester,/api/v1/people/8470151,Jay,Bouwmeester,19,1983-09-27,38,Edmonton,AB,CAN,CAN,"6' 4""",206,True,False,False,False,L,Y,2019020002,19,Defenseman
+8476892,Colton Parayko,/api/v1/people/8476892,Colton,Parayko,55,1993-05-12,29,St. Albert,AB,CAN,CAN,"6' 6""",230,True,False,False,False,R,Y,2019020002,19,Defenseman
+8480023,Robert Thomas,/api/v1/people/8480023,Robert,Thomas,18,1999-07-02,23,Aurora,ON,CAN,CAN,"6' 0""",188,True,False,False,False,R,Y,2019020002,19,Center
+8477482,Zach Sanford,/api/v1/people/8477482,Zach,Sanford,12,1994-11-09,27,Salem,MA,USA,USA,"6' 4""",207,True,False,False,False,L,Y,2019020002,19,Left Wing
+8477903,Garnet Hathaway,/api/v1/people/8477903,Garnet,Hathaway,21,1991-11-23,30,Kennebunkport,ME,USA,USA,"6' 3""",210,True,False,False,False,R,Y,2019020002,15,Right Wing
+8475768,Jaden Schwartz,/api/v1/people/8475768,Jaden,Schwartz,17,1992-06-25,30,Wilcox,SK,CAN,CAN,"5' 10""",190,True,False,False,False,L,Y,2019020002,19,Center
+8475209,Richard Panik,/api/v1/people/8475209,Richard,Panik,14,1991-02-07,31,Martin,,SVK,SVK,"6' 2""",202,True,False,False,False,L,Y,2019020002,15,Right Wing
+8475324,Nick Jensen,/api/v1/people/8475324,Nick,Jensen,3,1990-09-21,32,Rogers,MN,USA,USA,"6' 1""",196,True,False,False,False,R,Y,2019020002,15,Defenseman
+8476897,Oskar Sundqvist,/api/v1/people/8476897,Oskar,Sundqvist,70,1994-03-23,28,Boden,,SWE,SWE,"6' 3""",209,True,False,False,False,R,Y,2019020002,19,Center
+8477964,Ivan Barbashev,/api/v1/people/8477964,Ivan,Barbashev,49,1995-12-14,26,Moscow,,RUS,RUS,"6' 0""",187,True,False,False,False,L,Y,2019020002,19,Center
+8475765,Vladimir Tarasenko,/api/v1/people/8475765,Vladimir,Tarasenko,91,1991-12-13,30,Yaroslavl,,RUS,RUS,"6' 0""",225,True,True,False,False,L,Y,2019020002,19,Right Wing
+8470257,Alexander Steen,/api/v1/people/8470257,Alexander,Steen,20,1984-03-01,38,Winnipeg,MB,CAN,SWE,"6' 0""",211,True,True,False,False,L,Y,2019020002,19,Left Wing
+8477944,Jakub Vrana,/api/v1/people/8477944,Jakub,Vrana,13,1996-02-28,26,Prague,,CZE,CZE,"6' 0""",195,True,False,False,False,L,Y,2019020002,15,Left Wing
+8478104,Sammy Blais,/api/v1/people/8478104,Sammy,Blais,9,1996-06-17,26,Montmagny,QC,CAN,CAN,"6' 2""",205,True,False,False,False,L,Y,2019020002,19,Left Wing
+8477831,Pheonix Copley,/api/v1/people/8477831,Pheonix,Copley,1,1992-01-18,30,North Pole,AK,USA,USA,"6' 4""",200,True,False,False,False,L,N,2019020002,15,Goalie
+8477952,Robby Fabbri,/api/v1/people/8477952,Robby,Fabbri,15,1996-01-22,26,Mississauga,ON,CAN,CAN,"5' 10""",190,True,False,False,False,L,Y,2019020002,19,Center
+8475158,Ryan O'Reilly,/api/v1/people/8475158,Ryan,O'Reilly,90,1991-02-07,31,Clinton,ON,CAN,CAN,"6' 1""",216,True,False,False,False,L,Y,2019020002,19,Center
+8474102,David Perron,/api/v1/people/8474102,David,Perron,57,1988-05-28,34,Sherbrooke,QC,CAN,CAN,"6' 0""",200,True,False,False,False,R,Y,2019020002,19,Left Wing
+8474189,Lars Eller,/api/v1/people/8474189,Lars,Eller,20,1989-05-08,33,Rodovre,,DNK,DNK,"6' 2""",205,True,False,False,False,L,Y,2019020002,15,Center
+8474145,Robert Bortuzzo,/api/v1/people/8474145,Robert,Bortuzzo,41,1989-03-18,33,Thunder Bay,ON,CAN,CAN,"6' 4""",216,True,False,False,False,R,Y,2019020002,19,Defenseman
+8476880,Tom Wilson,/api/v1/people/8476880,Tom,Wilson,43,1994-03-29,28,Toronto,ON,CAN,CAN,"6' 4""",220,True,False,False,False,R,Y,2019020002,15,Right Wing
+8475098,Tyler Bozak,/api/v1/people/8475098,Tyler,Bozak,21,1986-03-19,36,Regina,SK,CAN,CAN,"6' 1""",199,True,False,False,False,R,Y,2019020002,19,Center
+8475170,Brayden Schenn,/api/v1/people/8475170,Brayden,Schenn,10,1991-08-22,31,Saskatoon,SK,CAN,CAN,"6' 1""",200,True,False,False,False,L,Y,2019020002,19,Center
+8480796,Martin Fehervary,/api/v1/people/8480796,Martin,Fehervary,42,1999-10-06,22,Bratislava,,SVK,SVK,"6' 2""",200,True,False,False,True,L,N,2019020002,15,Defenseman
