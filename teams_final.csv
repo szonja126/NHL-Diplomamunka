@@ -1,0 +1,34 @@
+,id,name,link,abbreviation,triCode,teamName,locationName,firstYearOfPlay,shortName,active
+33,1,New Jersey Devils,/api/v1/teams/1,NJD,NJD,Devils,New Jersey,1982,New Jersey,True
+22,2,New York Islanders,/api/v1/teams/2,NYI,NYI,Islanders,New York,1972,NY Islanders,True
+6,3,New York Rangers,/api/v1/teams/3,NYR,NYR,Rangers,New York,1926,NY Rangers,True
+35,4,Philadelphia Flyers,/api/v1/teams/4,PHI,PHI,Flyers,Philadelphia,1967,Philadelphia,True
+0,5,Pittsburgh Penguins,/api/v1/teams/5,PIT,PIT,Penguins,Pittsburgh,1967,Pittsburgh,True
+39,6,Boston Bruins,/api/v1/teams/6,BOS,BOS,Bruins,Boston,1924,Boston,True
+13,7,Buffalo Sabres,/api/v1/teams/7,BUF,BUF,Sabres,Buffalo,1970,Buffalo,True
+4,8,Montréal Canadiens,/api/v1/teams/8,MTL,MTL,Canadiens,Montréal,1917,Montréal,True
+15,9,Ottawa Senators,/api/v1/teams/9,OTT,OTT,Senators,Ottawa,1992,Ottawa,True
+5,10,Toronto Maple Leafs,/api/v1/teams/10,TOR,TOR,Maple Leafs,Toronto,1927,Toronto,True
+14,10,Toronto Maple Leafs,/api/v1/teams/10,TOR,TOR,Maple Leafs,Toronto,1926,Toronto,True
+23,12,Carolina Hurricanes,/api/v1/teams/12,CAR,CAR,Hurricanes,Carolina,1997,Carolina,True
+19,13,Florida Panthers,/api/v1/teams/13,FLA,FLA,Panthers,Florida,1993,Florida,True
+1,14,Tampa Bay Lightning,/api/v1/teams/14,TBL,TBL,Lightning,Tampa Bay,1992,Tampa Bay,True
+7,15,Washington Capitals,/api/v1/teams/15,WSH,WSH,Capitals,Washington,1974,Washington,True
+8,16,Chicago Blackhawks,/api/v1/teams/16,CHI,CHI,Blackhawks,Chicago,1926,Chicago,True
+17,17,Detroit Red Wings,/api/v1/teams/17,DET,DET,Red Wings,Detroit,1932,Detroit,True
+27,18,Nashville Predators,/api/v1/teams/18,NSH,NSH,Predators,Nashville,1998,Nashville,True
+58,19,St. Louis Blues,/api/v1/teams/19,STL,STL,Blues,St. Louis,1967,St Louis,True
+60,20,Calgary Flames,/api/v1/teams/20,CGY,CGY,Flames,Calgary,1980,Calgary,True
+9,21,Colorado Avalanche,/api/v1/teams/21,COL,COL,Avalanche,Colorado,1995,Colorado,True
+11,22,Edmonton Oilers,/api/v1/teams/22,EDM,EDM,Oilers,Edmonton,1979,Edmonton,True
+10,23,Vancouver Canucks,/api/v1/teams/23,VAN,VAN,Canucks,Vancouver,1970,Vancouver,True
+29,24,Anaheim Ducks,/api/v1/teams/24,ANA,ANA,Ducks,Anaheim,1993,Anaheim,True
+20,25,Dallas Stars,/api/v1/teams/25,DAL,DAL,Stars,Dallas,1993,Dallas,True
+31,26,Los Angeles Kings,/api/v1/teams/26,LAK,LAK,Kings,Los Angeles,1967,Los Angeles,True
+65,28,San Jose Sharks,/api/v1/teams/28,SJS,SJS,Sharks,San Jose,1991,San Jose,True
+25,29,Columbus Blue Jackets,/api/v1/teams/29,CBJ,CBJ,Blue Jackets,Columbus,2000,Columbus,True
+36,30,Minnesota Wild,/api/v1/teams/30,MIN,MIN,Wild,Minnesota,2000,Minnesota,True
+28,52,Winnipeg Jets,/api/v1/teams/52,WPG,WPG,Jets,Winnipeg,2011,Winnipeg,True
+24,53,Arizona Coyotes,/api/v1/teams/53,ARI,ARI,Coyotes,Arizona,2014,Arizona,True
+3,54,Vegas Golden Knights,/api/v1/teams/54,VGK,VGK,Golden Knights,Vegas,2017,Vegas,True
+2,55,Seattle Kraken,/api/v1/teams/55,SEA,SEA,Kraken,Seattle,2021,Seattle,True
